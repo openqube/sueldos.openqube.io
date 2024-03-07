@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "./static/css/main.c79da2fa.css",
+    "main.js": "./static/js/main.407e0c51.js",
+    "static/media/RedHatDisplay-Regular.ttf": "./static/media/RedHatDisplay-Regular.48bda87bb52837866926.ttf",
+    "index.html": "./index.html",
+    "main.c79da2fa.css.map": "./static/css/main.c79da2fa.css.map",
+    "main.407e0c51.js.map": "./static/js/main.407e0c51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c79da2fa.css",
+    "static/js/main.407e0c51.js"
+  ]
+}
